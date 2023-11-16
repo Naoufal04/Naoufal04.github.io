@@ -95,7 +95,7 @@ a {
 }
 
 
- p{
+p{
     font-family:  Garamond, serif;
     font-size: 16px;
     line-height: 1.5em;
@@ -103,6 +103,16 @@ a {
     padding-bottom: 1.5em;
 
 }
+
+img{
+	max-width:600px;
+}
+
+.caption{
+	color: dimgray;
+	font-size: 12px;
+	font-style: italic;
+} 
 
 /* flexbox code! */
 div.wrap{
